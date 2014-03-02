@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Git",
+		"Mercurial",
+		"NSIS",
+		"Package Control",
+		"sublemacspro",
+		"Theme - Soda",
+		"Theme - Sodarized"
+	]
+}
